@@ -1,7 +1,6 @@
 Coding Challenge
 ===========================
 
-This solution has been implemented in Java.
 
 Prerequisites-
 -------------
@@ -12,8 +11,8 @@ Installation-
 -------------
 
 - Java 11+
-Find some basic info for all Systems in the [install installation][javainstall]
-Set the environment variable `JAVA_HOME` and add the bin directory to you `PATH` environment variable;
+Find some basic info for all Systems in the [install installation][javainstall]</br>
+Set the environment variable `JAVA_HOME` and add the `bin` directory to you `PATH` environment variable;
 
     ```
     export JAVA_HOME=<your path to jdk directory>
@@ -21,9 +20,9 @@ Set the environment variable `JAVA_HOME` and add the bin directory to you `PATH`
     ````
 
 - Maven
-Maven installed on your machine
-Find some basic info for all systems in the [install instructions][mvninstall].
-The official way to install Maven is to download and unpack the binary ZIP file to a common directory, set the environment variable `M2_HOME` and add the bin directory to your `PATH` environment variable.
+Maven installed on your machine</br>
+Find some basic info for all systems in the [install instructions][mvninstall].<br/>
+The official way to install Maven is to download and unpack the binary ZIP file to a common directory, set the environment variable `M2_HOME` and add the `bin` directory to your `PATH` environment variable.
 
     ```
     export M2_HOME=<your path to maven directory>
@@ -43,7 +42,7 @@ Following reference will help in installation of JDK and maven -
 - [Maven Installation][mvninstall]
 
 
-# Run the program
+Run the program
 -------------
 
 - Clone the git repo from [github][gitrepo]
@@ -60,7 +59,7 @@ Following reference will help in installation of JDK and maven -
 You should see the output in the console.
 
 
-# Assumptions
+Assumptions
 -------------
 
 The input will be a JSON object
