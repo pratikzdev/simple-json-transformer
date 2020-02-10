@@ -1,0 +1,12 @@
+{
+    "a": 1,
+    "b": null,
+    "c": {
+        "d": 3,
+        "e": {
+            "test" : 123,
+            "val" : false
+        },
+        "f" : "some value"
+    }
+}
