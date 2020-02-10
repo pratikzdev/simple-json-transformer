@@ -62,9 +62,9 @@ You should see the output in the console.
 Assumptions
 -------------
 
-The input will be a JSON object
-All keys named in the original object will be simple strings without ‘.’ characters
-The input JSON will not contain arrays
+- The input will be a JSON object
+- All keys named in the original object will be simple strings without ‘.’ characters
+- The input JSON will not contain arrays
 
 
 [javainstall]: https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A
