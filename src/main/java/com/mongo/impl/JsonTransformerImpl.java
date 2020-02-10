@@ -21,7 +21,7 @@ public class JsonTransformerImpl implements JsonTransformer {
     }
 
     /**
-     * Actual code that traverses json and tr
+     * Logic that traverses code and transforms json
      *
      * @param currentKey Current key that is being visited
      * @param inputJson Input Json
