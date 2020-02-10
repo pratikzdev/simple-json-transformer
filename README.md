@@ -49,15 +49,12 @@ Run the program
 
 - Navigate to root of repo in your local directory.
 
-- Run the following command, you can set the -Djava.io.tmpdir to custom path if, this is the path where the jar will be exported.
-
-- Execute  `mvn clean install -Djava.io.tmpdir=/tmp`
+- Run the following command, you can set the -Djava.io.tmpdir to custom path, this is the path where the jar will be exported. Execute  `mvn clean install -Djava.io.tmpdir=/tmp`
 
 - I have a basic test.json created at root level you can run -
 `cat test.json | java -jar /tmp/simple-json-transformer.jar`
 
 You should see the output in the console.
-
 
 Assumptions
 -------------
