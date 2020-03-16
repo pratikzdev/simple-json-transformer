@@ -1,7 +1,3 @@
-Coding Challenge
-===========================
-
-
 Prerequisites-
 -------------
 - JDK 11+ installed on your machine
