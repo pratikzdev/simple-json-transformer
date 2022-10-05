@@ -11,7 +11,7 @@
     <properties>
         <jdk.version>11</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jackson.databind.version>2.10.2</jackson.databind.version>
+        <jackson.databind.version>2.12.6.1</jackson.databind.version>
         <powermock.version>2.0.2</powermock.version>
         <junit.version>4.12</junit.version>
         <mockito.core.version>3.2.4</mockito.core.version>
